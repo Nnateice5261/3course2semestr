@@ -1,0 +1,10 @@
+.table{
+    border: 1px solid black;
+}
+.string{
+    border: 1px solid pink;
+}
+.FIO{
+    font-family: "Bodoni MT Black";
+    font-size: 32px;
+}

@@ -1,0 +1,71 @@
+.App {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("https://img.alicdn.com/imgextra/i1/6000000004049/TB2m6PYinJYBeNjy1zeXXahzVXa_!!6000000004049-0-tbvideo.jpg");
+  background-repeat: no-repeat;
+  background-position: cover;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.containerImage{
+  height: 200px;
+  width: 200px;
+}
+.containerImage2{
+  height: 350px;
+  width: 300px;
+}
+.image{
+  object-fit: contain;
+  height: 100%;
+  width: 100%;
+}
+.obertkaForCalculator{
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+th h4:hover{
+  color: blue;
+}

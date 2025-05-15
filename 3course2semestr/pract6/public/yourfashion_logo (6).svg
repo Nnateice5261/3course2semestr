@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="75 0 400 400">
+  <!-- Creating the hanger using simple geometric shapes with reduced scale -->
+  <g transform="translate(50, 20) scale(1.5)">
+    <!-- Hook at the top -->
+    <line x1="100" y1="5" x2="100" y2="35" stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" />
+    
+    <!-- Top curved part (shoulders) -->
+    <path d="M100,35 C100,20 85,20 85,35 L85,45 L30,85 L170,85 L115,45 L115,35 C115,20 100,20 100,35 Z" 
+          fill="#333333" stroke="#FFFFFF" stroke-width="5" stroke-linejoin="round" />
+    
+    <!-- Explicitly drawing the vertical left support -->      
+    <line x1="30" y1="85" x2="30" y2="110" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" />
+    
+    <!-- Explicitly drawing the vertical right support -->
+    <line x1="170" y1="85" x2="170" y2="110" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" />
+    
+    <!-- Explicitly drawing the bottom horizontal bar as a separate element -->
+    <line x1="30" y1="110" x2="170" y2="110" stroke="#FFFFFF" stroke-width="5" stroke-linecap="square" />
+    
+    <!-- Text inside the hanger shape - "Your" stays in top part -->
+    <text x="100" y="70" font-family="'Montserrat', sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#FFFFFF">
+      Your
+    </text>
+    
+    <!-- "Fashion" is now positioned on the bottom horizontal bar -->
+    <text x="100" y="107" font-family="'Montserrat', sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#FFFFFF">
+      Fashion
+    </text>
+  </g>
+
+</svg>

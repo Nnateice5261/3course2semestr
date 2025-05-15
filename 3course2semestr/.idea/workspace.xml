@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3f8b780-edb7-4638-a2af-4fc3f52ef64a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pract1,2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract1,2/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract1,2/.idea/vite-project.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract1,2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract1,2/eslint.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract1,2/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract1,2/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/pract1,2/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract1,2/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract1,2/src/App.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract1,2/src/main.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract1,2/src/main.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract1,2/vite.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/public/prikl2.png" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/public/prikl2.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/public/Дмитрий.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/public/Дмитрий.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/public/Кирилл.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/public/Кирилл.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/public/Слава.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/public/Слава.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/src/components/calculator/calculator.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/src/components/calculator/calculator.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/src/components/calculator/calculator.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/src/components/calculator/calculator.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/src/components/info.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/src/components/info.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/src/components/spravochniki.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/src/components/spravochniki.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract3/my-app/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pract3/my-app/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract4/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/pract4/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract4/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pract4/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract4/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/pract4/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract4/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pract4/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract4/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/pract4/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract4/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pract4/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract4/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/pract4/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract4/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/pract4/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract4/src/components/Card.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pract4/src/components/Card.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract4/src/components/Carousel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pract4/src/components/Carousel.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract4/src/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pract4/src/components/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract4/src/components/Grid.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pract4/src/components/Grid.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract4/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pract4/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract4/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pract4/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract4/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pract4/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/.idea/petrov5.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/src/components/Card.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/src/components/Grid.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/src/components/Header.jsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract5/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/public/logo192.png" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/public/logo192.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/public/logo512.png" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/public/logo512.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/public/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/public/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/public/robots.txt" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/public/robots.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/public/yourfashion_logo (6).svg" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/public/yourfashion_logo (6).svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/src/components/CardPage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/src/components/CardPage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/src/components/Footer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/src/components/Footer.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/src/components/GridSetka.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/src/components/GridSetka.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/src/components/Header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/src/components/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/src/components/ItemCard.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/src/components/ItemCard.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/src/components/ShoppingCart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/src/components/ShoppingCart.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/src/components/UnitCart.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/src/components/UnitCart.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pract6/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pract6/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2wzchyNo6ekRqe33MiqasGmjcn2" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/dota polka/OneDrive/Рабочий стол/практ петров",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-WS-241.14494.235" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3f8b780-edb7-4638-a2af-4fc3f52ef64a" name="Changes" comment="" />
+      <created>1747047968429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747047968429</updated>
+      <workItem from="1747047970726" duration="1734000" />
+      <workItem from="1747322182321" duration="120000" />
+      <workItem from="1747325240659" duration="188000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

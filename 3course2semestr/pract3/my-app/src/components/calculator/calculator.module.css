@@ -1,0 +1,38 @@
+.main{
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    width: 450px;
+    border: #282c34 1px solid;
+}
+.upperBlock{
+    height: 25%;
+    width:100%;
+    display: flex;
+    align-items: center;
+}
+.UpperInput{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-end;
+    height: 90%;
+    border: none;
+    font-family: "Times New Roman";
+    font-size: 30px;
+}
+.UpperInput:hover{
+    border: red 1px solid;
+}
+.downBlock{
+    height: 75%;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    grid-template-rows: repeat(5, 1fr);
+}
+.unitOfGrid{
+    border: #282c34 1px solid;
+}
+.unitOfGrid:hover{
+    background-color: #7676c6;
+}
